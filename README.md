@@ -6,7 +6,7 @@ map
 ## Install
 
 ```ch
-nibble add map
+nibble add map --branch master
 ```
 
 ## Usage
