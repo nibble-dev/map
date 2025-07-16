@@ -1,0 +1,17 @@
+[project]
+name = "map"
+version = "0.1.0"
+repo = "rxi/map"
+description = "Type-safe generic hash map"
+language = "c"
+
+
+[nibbles]
+
+
+
+[build]
+srcs = ["src/map.c", "src/map.h"]
+cflags = []
+libs = []
+include_dirs = ["nibs"]
